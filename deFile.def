@@ -1,0 +1,4 @@
+LIBRARY "lookback"
+EXPORTS
+	sendcallresults = SendCallResultsToVBA
+	sendputresults = SendPutResultsToVBA
