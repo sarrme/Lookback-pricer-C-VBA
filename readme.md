@@ -28,9 +28,9 @@ Do not remove the images from the folder.
 
 ## Theory: 
 
-The report explains in details the implementation of the Price.  
+The report explains in details the implementation of the Pricer.  
 
-## screenshots: 
+## Screenshots: 
 
 The user has to specify the characteristics of the option for the price and the greeks to be returned. The use of the interface is intuitive and don't require prior knowledge of how to code in C++ or in VBA. 
 
