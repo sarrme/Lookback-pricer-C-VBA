@@ -37,7 +37,10 @@ The user has to specify the characteristics of the option for the price and the 
 Here you'll find a screenshot of user interface.
 
 The user interface detects the compatibility of the values entrered by the user: 
-
+<image href="https://github.com/sarrme/Lookback-pricer-Cpp-VBA/raw/master/pricer-error.PNG"></image>
 When the values entered are correct, the price is deduced based on the code of the C++ library. 
+<image href="https://github.com/sarrme/Lookback-pricer-Cpp-VBA/raw/master/pricer-price.PNG"></image>
+<image href="https://github.com/sarrme/Lookback-pricer-Cpp-VBA/raw/master/pricer-delta.PNG"></image>
+
 
 
