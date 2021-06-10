@@ -1,4 +1,4 @@
-# Lookback Option Pricer with Monte Carlo based on Monte Carlo approach:
+# Lookback Option Pricer based on Monte Carlo approach:
 
 ## Description:
 
